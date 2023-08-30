@@ -68,7 +68,7 @@
 <br/><br/>
 <hr/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin+%E2%9C%85;Always+Ready+For+collaboration+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=aerial&weight=500&size=35&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin+%E2%9C%85;Always+Down+For+collaboration+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 <br/>
 
