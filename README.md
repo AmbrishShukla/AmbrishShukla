@@ -1,3 +1,4 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AmbrishShukla.AmbrishShukla" />
 
 <h1 align="center">
@@ -21,7 +22,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="6238ambrishshukla@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ambrish-shukla-64b67121a/" target="_blank">
@@ -37,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,mongodb,c,c++,java,Python" /><br>
-    <img src="https://skillicons.dev/icons?i=react,c,c++,javaScript,bootstrap,mui,mysql,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,mongodb,c,cpp,java,Python" /><br>
+    <img src="https://skillicons.dev/icons?i=react,c,cpp,bootstrap,mui,mysql,html,css,vscode,git" />
 </div>
 
 <br/>
@@ -57,10 +58,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=AmbrishShukla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AmbrishShukla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 height="200" src="https://streak-stats.demolab.com/?user=AmbrishShukla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=ambrishshukla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-AmbrishShukla.vercel.app/api/top-langs/?username=AmbrishShukla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambrishshukla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
