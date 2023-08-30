@@ -69,7 +69,7 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin+%E2%9C%85;Always+Down+For+collaboration+%F0%9F%98%8A;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin+%E2%9C%85;Always+Down+For+collaboration+%F0%9F%98%8A;"/>
 </h1>
 
 <br/>
