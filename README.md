@@ -68,9 +68,7 @@
 <br/><br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin+%E2%9C%85;Always+Ready+For+collaboration+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 <br/>
 
